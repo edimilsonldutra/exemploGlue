@@ -1,4 +1,4 @@
-## Construindo um Data Lakehouse com AWS Glue | Live #70
+## Construindo um Data Lakehouse com AWS Glue 
 ```sh
 # working directory
 cd terraform
